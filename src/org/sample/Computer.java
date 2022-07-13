@@ -12,4 +12,7 @@ public class Computer {
 	private void newpersn() {
 		System.out.println("Newperson update");
 	}
+	private void oldperson() {
+		System.out.println("Karthick");
+	}
 }

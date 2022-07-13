@@ -12,7 +12,7 @@ public class Computer {
 	private void newpersn() {
 		System.out.println("Newperson update");
 	}
-	private void update() {
+	private void shain() {
 		System.out.println("new update");
 	}
 }

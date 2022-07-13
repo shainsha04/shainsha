@@ -15,4 +15,8 @@ public class Computer {
 	private void Old() {
 		System.out.println("new update");
 	}
+	
+	private void New() {
+		System.out.println("First");
+	}
 }
